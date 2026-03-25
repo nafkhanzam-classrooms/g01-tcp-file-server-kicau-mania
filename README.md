@@ -5,7 +5,7 @@
 | Nama           | NRP        | Kelas     |
 | ---            | ---        | ----------|
 | Ageng Prayogo | 5025241225 | D |
-|                | 5025241227 | D |
+| Shafa Maulana Efendi | 5025241227 | D |
 
 ## Link Youtube (Unlisted)
 Link ditaruh di bawah ini
