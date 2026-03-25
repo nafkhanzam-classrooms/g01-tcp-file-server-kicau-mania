@@ -133,3 +133,10 @@ while True:
 ## Screenshot Hasil
 
 ![image](https://github.com/user-attachments/assets/912d0d50-29d1-4129-8efb-7530799305d9)
+![image](https://github.com/user-attachments/assets/0c2d3cbe-9453-4db1-82f6-46ad4d5a671c)
+![image](https://github.com/user-attachments/assets/3494990e-673f-425a-9547-79bd1e1cc3d2)
+![image](https://github.com/user-attachments/assets/076efeee-d806-471f-bbe9-dde7dad4f3f4)
+![image](https://github.com/user-attachments/assets/51d30d76-c5e4-4fef-823f-21d4b165b03c)
+![image](https://github.com/user-attachments/assets/6f85ee7c-3086-4938-8a8f-8ea0c25231a0)
+
+
